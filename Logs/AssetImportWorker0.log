@@ -1131,3 +1131,161 @@ System memory in use after: 201.3 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2550.
 Total: 1.783750 ms (FindLiveObjects: 0.150208 ms CreateObjectMapping: 0.042667 ms MarkObjects: 1.438083 ms  DeleteObjects: 0.152041 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 11761.316218 seconds.
+  path: Assets/Sprite/My_Character_Aseprite
+  artifactKey: Guid(24fc92759fad240ffa6c3303246e189d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite using Guid(24fc92759fad240ffa6c3303246e189d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa447ef06600ff9a9e51cedd757408f') in 0.092601 seconds
+  Import took 0.191669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.165951 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png
+  artifactKey: Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png using Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72637950fa2cc58536fac2d5918724f8') in 0.272951 seconds
+  Import took 0.279260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.941432 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png
+  artifactKey: Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png using Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a05df2dec08845179fc7c61090d3141') in 0.013881 seconds
+  Import took 0.016992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png
+  artifactKey: Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png using Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a05df2dec08845179fc7c61090d3141') in 0.004450 seconds
+  Import took 0.007030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.676697 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png
+  artifactKey: Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/Kelly_Mockup_SpriteSheet.png using Guid(070a067af4982442dafc0d7d41cfa58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c4112e02c87d31c15a5cd6c81c91a8') in 0.148113 seconds
+  Import took 0.189891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1045.527959 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png
+  artifactKey: Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png using Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c1b998bde2266e621eddc031fc9b353') in 0.064506 seconds
+  Import took 0.080804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.237535 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png
+  artifactKey: Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png using Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcf9fc897bebdf5b61a4c65d8aebf2e') in 0.024401 seconds
+  Import took 0.059370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.961615 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png
+  artifactKey: Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet.png using Guid(a03d902456ed743b7896b2caac4cb730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9341ca06baf932a2e2796a13c9a2c3') in 0.052696 seconds
+  Import took 0.068846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.678909 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_0.controller
+  artifactKey: Guid(c6b03d88defc54a899e0a2168aadb6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_0.controller using Guid(c6b03d88defc54a899e0a2168aadb6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca82c0d9fdc490fde83e912ac68a1572') in 0.030123 seconds
+  Import took 0.048433 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.679 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.0 MB.
+System memory in use after: 202.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 1.588917 ms (FindLiveObjects: 0.142334 ms CreateObjectMapping: 0.040916 ms MarkObjects: 1.306125 ms  DeleteObjects: 0.098833 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 548.818645 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png
+  artifactKey: Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png using Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2311c8c2effd0f9d6bc0db2eb74012fd') in 0.148776 seconds
+  Import took 0.151514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.146772 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png
+  artifactKey: Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png using Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99243359390ee6e9dc749c2f2182b678') in 0.013294 seconds
+  Import took 0.016053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.946824 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png
+  artifactKey: Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png using Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5a621aca0213d58032ef2fd729b94d') in 0.032027 seconds
+  Import took 0.041831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.193834 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png
+  artifactKey: Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_SpriteSheet_02.png using Guid(765d4da59486b4f5f9a58d558e37f95d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a2886856b8a6be60e432a457d9fdeb') in 0.059313 seconds
+  Import took 0.079302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 471.839823 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_Walk.anim
+  artifactKey: Guid(1cde9e99b367f46df88e97cffdbf41b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_Walk.anim using Guid(1cde9e99b367f46df88e97cffdbf41b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa0d4d2111fb58e23ad11b9ca89931c') in 0.025378 seconds
+  Import took 0.034268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010947 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_Walk.anim
+  artifactKey: Guid(1cde9e99b367f46df88e97cffdbf41b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_Walk.anim using Guid(1cde9e99b367f46df88e97cffdbf41b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa0d4d2111fb58e23ad11b9ca89931c') in 0.001455 seconds
+  Import took 0.004364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.383415 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/Eggman_Jump.anim
+  artifactKey: Guid(e08fb1670cb094878b3b4681d597d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/Eggman_Jump.anim using Guid(e08fb1670cb094878b3b4681d597d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bbf1d06aa67c926998ffc38017824a') in 0.004666 seconds
+  Import took 0.008543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.734300 seconds.
+  path: Assets/Sprite/My_Character_Aseprite/EggMan_Idle01.controller
+  artifactKey: Guid(8b7761d80d4fc464caa17576792fb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite/My_Character_Aseprite/EggMan_Idle01.controller using Guid(8b7761d80d4fc464caa17576792fb8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afe9d2c3c3be91bd697274fb2b7a94c') in 0.014302 seconds
+  Import took 0.019984 seconds .
+
